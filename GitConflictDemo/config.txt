@@ -1,0 +1,2 @@
+﻿AppName=MyApp
+Version=1.0
