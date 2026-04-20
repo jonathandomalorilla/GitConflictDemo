@@ -1,2 +1,2 @@
-﻿Version=1.0
-Feature=None
+Version=2.0
+Feature=Payment
