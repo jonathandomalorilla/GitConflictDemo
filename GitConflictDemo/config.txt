@@ -1,2 +1,2 @@
-﻿Version=1.0
-Feature=None
+﻿Version=1.1
+Feature=Login
